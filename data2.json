@@ -1,0 +1,647 @@
+{
+   "filename":"71df654158d04ecdb5d351d85daa5797.mp3",
+   "json":{
+      "duration":188.61825,
+      "speakers":[
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Agent",
+         "Customer",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer",
+         "Agent",
+         "Customer"
+      ],
+      "sentiment":[
+         [
+            "Neutral",
+            0.5
+         ],
+         [
+            "Unpleasant",
+            0.5065103033074514
+         ],
+         [
+            "Unpleasant",
+            0.6717910628376379
+         ],
+         [
+            "Pleasant",
+            0.9344242044430392
+         ],
+         [
+            "Unpleasant",
+            0.9626732725757581
+         ],
+         [
+            "Pleasant",
+            0.9849647805898686
+         ],
+         [
+            "Pleasant",
+            0.9920921288790879
+         ],
+         [
+            "Pleasant",
+            0.9981238073411494
+         ],
+         [
+            "Pleasant",
+            0.9993910973315362
+         ],
+         [
+            "Pleasant",
+            0.9997081119443565
+         ],
+         [
+            "Pleasant",
+            0.988904379383381
+         ],
+         [
+            "Pleasant",
+            0.9927693356474505
+         ],
+         [
+            "Unpleasant",
+            0.9624317684451632
+         ],
+         [
+            "Pleasant",
+            0.9966191336007716
+         ],
+         [
+            "Unpleasant",
+            0.9982237223197692
+         ],
+         [
+            "Unpleasant",
+            0.9999999994564441
+         ],
+         [
+            "Neutral",
+            0.5
+         ],
+         [
+            "Pleasant",
+            0.9988947424694582
+         ],
+         [
+            "Pleasant",
+            0.999974315148478
+         ],
+         [
+            "Pleasant",
+            0.9894067590748628
+         ],
+         [
+            "Pleasant",
+            0.7181392792364093
+         ],
+         [
+            "Pleasant",
+            0.9973787170091041
+         ],
+         [
+            "Pleasant",
+            0.979752234307133
+         ],
+         [
+            "Pleasant",
+            0.9874669002889058
+         ],
+         [
+            "Unpleasant",
+            0.9999981674406059
+         ],
+         [
+            "Pleasant",
+            0.796358813539138
+         ],
+         [
+            "Unpleasant",
+            0.9999999999988468
+         ],
+         [
+            "Neutral",
+            0.5
+         ],
+         [
+            "Neutral",
+            0.5
+         ],
+         [
+            "Pleasant",
+            0.9981584974090779
+         ],
+         [
+            "Pleasant",
+            0.9999945249797897
+         ],
+         [
+            "Pleasant",
+            0.9994795992832713
+         ],
+         [
+            "Pleasant",
+            0.9988375724114587
+         ],
+         [
+            "Unpleasant",
+            0.9999998181652477
+         ],
+         [
+            "Pleasant",
+            0.9945542673094236
+         ]
+      ],
+      "timestamps":[
+         [
+            0,
+            0.45821875
+         ],
+         [
+            0.41090625,
+            4.41371875
+         ],
+         [
+            4.01371875,
+            5.46165625
+         ],
+         [
+            6.5601562499999995,
+            36.575781250000006
+         ],
+         [
+            36.17578125,
+            36.996812500000004
+         ],
+         [
+            36.5968125,
+            61.33309375
+         ],
+         [
+            62.79271875,
+            63.704875
+         ],
+         [
+            63.304874999999996,
+            67.792
+         ],
+         [
+            67.392,
+            69.83809375
+         ],
+         [
+            69.43809375,
+            72.96334374999999
+         ],
+         [
+            75.42365625000001,
+            86.24059375
+         ],
+         [
+            85.84059375,
+            87.44209375000001
+         ],
+         [
+            88.76840624999998,
+            89.95140625
+         ],
+         [
+            89.55140625,
+            98.7323125
+         ],
+         [
+            98.3323125,
+            100.03000000000002
+         ],
+         [
+            99.63000000000001,
+            101.82634374999999
+         ],
+         [
+            102.36290625,
+            103.33159375000001
+         ],
+         [
+            105.33290625,
+            108.63709375
+         ],
+         [
+            108.54928124999999,
+            110.617375
+         ],
+         [
+            110.21737499999999,
+            115.91359375
+         ],
+         [
+            115.51359375,
+            116.52784375
+         ],
+         [
+            116.54296874999999,
+            122.41553125
+         ],
+         [
+            122.01553125,
+            123.58496875000002
+         ],
+         [
+            123.43134375000001,
+            131.33396874999997
+         ],
+         [
+            131.36090625,
+            135.94084374999997
+         ],
+         [
+            142.62496875,
+            147.96428124999997
+         ],
+         [
+            148.83159375,
+            149.84753124999997
+         ],
+         [
+            149.61290625,
+            151.50971875
+         ],
+         [
+            151.28859375,
+            151.91053124999996
+         ],
+         [
+            152.93809375,
+            167.84809374999998
+         ],
+         [
+            167.44809375,
+            169.23521874999997
+         ],
+         [
+            169.11028125,
+            174.3593125
+         ],
+         [
+            173.9593125,
+            174.79384374999998
+         ],
+         [
+            175.62234375,
+            184.088875
+         ],
+         [
+            183.688875,
+            185.58990625
+         ]
+      ],
+      "call_metadata":[
+         {
+            "score":7.0,
+            "labels":[
+               "Verification"
+            ],
+            "speaker":"Agent",
+            "max_score":13.333333333333334,
+            "timestamp":[
+               0.41090625,
+               4.41371875
+            ],
+            "scaled_score":52.5
+         },
+         {
+            "score":1.4285714285714286,
+            "labels":[
+               
+            ],
+            "speaker":"Agent",
+            "max_score":1.4285714285714286,
+            "timestamp":[
+               6.5601562499999995,
+               36.575781250000006
+            ],
+            "scaled_score":100.0
+         },
+         {
+            "score":1.4285714285714286,
+            "labels":[
+               
+            ],
+            "speaker":"Agent",
+            "max_score":1.4285714285714286,
+            "timestamp":[
+               36.5968125,
+               61.33309375
+            ],
+            "scaled_score":100.0
+         },
+         {
+            "score":0,
+            "labels":[
+               "Agreement"
+            ],
+            "speaker":"Customer",
+            "max_score":0,
+            "timestamp":[
+               67.392,
+               69.83809375
+            ],
+            "scaled_score":"-"
+         },
+         {
+            "score":2.0,
+            "labels":[
+               
+            ],
+            "speaker":"Agent",
+            "max_score":3.3333333333333335,
+            "timestamp":[
+               105.33290625,
+               108.63709375
+            ],
+            "scaled_score":60.0
+         },
+         {
+            "score":1.4285714285714286,
+            "labels":[
+               "Elucidation"
+            ],
+            "speaker":"Agent",
+            "max_score":1.4285714285714286,
+            "timestamp":[
+               110.21737499999999,
+               115.91359375
+            ],
+            "scaled_score":100.0
+         },
+         {
+            "score":6.428571428571429,
+            "labels":[
+               "Query"
+            ],
+            "speaker":"Agent",
+            "max_score":9.761904761904763,
+            "timestamp":[
+               116.54296874999999,
+               122.41553125
+            ],
+            "scaled_score":65.85
+         },
+         {
+            "score":6.428571428571429,
+            "labels":[
+               
+            ],
+            "speaker":"Agent",
+            "max_score":6.428571428571429,
+            "timestamp":[
+               123.43134375000001,
+               131.33396874999997
+            ],
+            "scaled_score":100.0
+         },
+         {
+            "score":0,
+            "labels":[
+               "Displeasure"
+            ],
+            "speaker":"Customer",
+            "max_score":0,
+            "timestamp":[
+               148.83159375,
+               149.84753124999997
+            ],
+            "scaled_score":"-"
+         },
+         {
+            "score":1.4285714285714286,
+            "labels":[
+               
+            ],
+            "speaker":"Agent",
+            "max_score":1.4285714285714286,
+            "timestamp":[
+               169.11028125,
+               174.3593125
+            ],
+            "scaled_score":100.0
+         },
+         {
+            "score":7.0,
+            "labels":[
+               "Closing"
+            ],
+            "speaker":"Agent",
+            "max_score":10.0,
+            "timestamp":[
+               175.62234375,
+               184.088875
+            ],
+            "scaled_score":70.0
+         }
+      ],
+      "scoring_module":{
+         "Names":{
+            "remark":"Name of the Agent: NA, Name of the Customer: \u0936\u0947\u092f\u0930",
+            "success":[
+               
+            ],
+            "max_score":0,
+            "scores_sum":0
+         },
+         "Evaluation":{
+            "success":[
+               "Fair"
+            ],
+            "Total Possible Score":90.0,
+            "Total Score of Agent":51.0
+         },
+         "Rate of Speech":{
+            "remark":"Rate of Speech of Agent: 74.26wpm",
+            "success":[
+               "Poor"
+            ],
+            "max_score":4,
+            "scores_sum":1
+         },
+         "Vehicle Details":{
+            "remark":"Vehicle model: \u092e\u093f\u0928\u0940, vehicle's year: NA",
+            "success":[
+               "Fair"
+            ],
+            "max_score":10,
+            "scores_sum":5
+         },
+         "Pleasant Welcome":{
+            "remark":"Proper Brand Name Intro: 0, Tone of the voice: 0",
+            "success":[
+               "Poor"
+            ],
+            "max_score":5.0,
+            "scores_sum":0
+         },
+         "Creation of Urgency":{
+            "remark":"Creating a sense of urgency in appointments/booking: 4",
+            "success":[
+               "Good"
+            ],
+            "max_score":5.0,
+            "scores_sum":4
+         },
+         "Process Explanation":{
+            "remark":"Process explained in detail: 10.0",
+            "success":[
+               "Good"
+            ],
+            "max_score":10.0,
+            "scores_sum":10.0
+         },
+         "Reflective Listening":{
+            "remark":"Percentage of the time the customer spoke: 15.12%, Reflectively listening to customer: 1.0",
+            "success":[
+               "Poor"
+            ],
+            "max_score":5,
+            "scores_sum":1.0
+         },
+         "USP/ Brand Articulation":{
+            "remark":"Explained -  Instant Payment:0, No Service Charge: 0, Free RC Transfer: 0, Brand OLX being global: 0",
+            "success":[
+               "Poor"
+            ],
+            "max_score":5.0,
+            "scores_sum":0
+         },
+         "Provide Options/Services":{
+            "remark":"Provided service options by company: 3",
+            "success":[
+               "Fair"
+            ],
+            "max_score":5.0,
+            "scores_sum":3
+         },
+         "Connect with the customer":{
+            "remark":"Connection with the customer: 3",
+            "success":[
+               "Fair"
+            ],
+            "max_score":5.0,
+            "scores_sum":3
+         },
+         "Language & Choice of Words":{
+            "remark":"Formal language usage: 8.0",
+            "success":[
+               "Good"
+            ],
+            "max_score":8.0,
+            "scores_sum":8.0
+         },
+         "Name and Email ID Updation":{
+            "remark":"Verified Name and Email ID: 5",
+            "success":[
+               "Fair"
+            ],
+            "max_score":10.0,
+            "scores_sum":5
+         },
+         "Cheerful & Energetic Closing":{
+            "remark":"Energetic ending: 2.0, Brand name mentioned: 0, Tone of the voice: 0",
+            "success":[
+               "Fair"
+            ],
+            "max_score":5.0,
+            "scores_sum":2.0
+         },
+         "Hold / Dead Air/ Transfer Related":{
+            "remark":"No dead air: 3",
+            "success":[
+               "Good"
+            ],
+            "max_score":3,
+            "scores_sum":3
+         },
+         "Process Documentation Explanation":{
+            "remark":"Asked Documents - RC: 2, loan: 0, insurance: 2, aadhar: 0, cheque: 2",
+            "success":[
+               "Fair"
+            ],
+            "max_score":10.0,
+            "scores_sum":6
+         },
+         "Understand Customer's Apprehension":{
+            "remark":"Out of context",
+            "success":"-",
+            "max_score":"-",
+            "scores_sum":"-"
+         }
+      },
+      "hindi_transcripts":[
+         "",
+         "\u0925\u0948\u0902\u0915\u094d\u092f\u0942 \u0938\u0930 \u0915\u094b\u0908 \u0939\u0948\u0902 \u0928\u093f\u092f\u0930 \u092c\u0948\u0902\u0915 \u092e\u0947\u0930\u0940 \u091c\u0940 \u0915\u0940 \u0939\u0948 \u092e\u0947\u0902 \u0906\u0930 \u0938\u0940 \u0938\u093f\u0928\u0947\u092e\u093e",
+         "\u0938\u0930 \u092e\u0948",
+         "\u0932\u0947\u091f \u092e\u0940 \u092c\u094d\u0930\u0940\u091c \u0926\u094b \u0926\u093f\u0928 \u091c\u0940 \u092e\u0948\u092e \u092b\u094d\u0930\u0940 \u0921\u0940\u091c\u0932 \u0939\u092e \u092e\u0947\u0902 \u0926\u093f\u0928 \u0939\u094b \u092b\u093c\u094b\u0928 \u092b\u093f\u0930 \u0915\u094b \u0915\u094d\u092f\u093e \u092d\u0940",
+         "",
+         "\u091c\u0940 \u0924\u094b \u0938\u0930 \u0906\u092a\u0915\u0940 \u092e\u0948 \u0926\u093f\u0916\u093e \u0907\u0902\u0921\u093f\u0917\u094b \u0915\u094d\u0935\u093f\u0921 \u0915\u093e\u0930\u094d\u0921 \u0926\u093f\u0928 \u0938\u094d\u091f\u094b\u0930 \u0939\u0948 \u0939\u092e \u0939\u0940 \u0938\u0930 \u0906\u0924\u093e \u0930\u093f\u0902\u0917 \u0915\u094d\u0932\u0940\u0928 \u092f\u0947 \u0928 \u0939\u094b \u0938\u0930 \u0928\u0947 \u0928\u0939\u0940 \u0928\u094b \u0938\u0930",
+         "\u0925\u0948\u0902\u0915\u094d\u092f\u0942 \u092e\u0947\u0902",
+         "\u092e\u0947\u0902 \u0938\u0930 \u0906\u092a\u0928\u0947 \u0915\u094d\u092f\u0942 \u0928\u0902\u092c\u0930",
+         "\u091c\u0940 \u091c\u0940",
+         "\u092e\u0947\u0902\u0936\u0928 \u092c\u091c\u0947 \u0928\u093e\u092e \u0938\u0947",
+         "\u092e\u093f\u0938\u094d\u091f\u0930 \u0936\u0947\u092f\u0930 \u092f\u0942 \u092e\u0947\u0902\u0936\u0928 \u0930\u091c\u093f\u0938\u094d\u091f\u0930 \u0915\u093e\u0930 \u0932\u0949\u0915 \u091c\u094b \u092e\u0947\u0902 \u0928\u0947\u0915\u094d\u0938\u094d\u091f \u092e\u0947\u0902 \u092e\u093e\u092f \u0930\u093e\u0907\u091f",
+         "\u0938\u0930 \u0906\u092a\u0928\u0947",
+         "",
+         "\u0938\u094d\u091f\u0947\u0936\u0928 \u092a\u0947 \u0938\u094d\u091f\u0947\u0936\u0928 \u0915\u0930\u093e \u0939\u093e\u0909 \u0930\u0947\u091f \u092e\u093f\u0938\u094d\u091f\u0930 \u0915\u094d\u092f\u0942 \u092e\u0947\u0930\u0947 \u092e\u0947\u0902 \u0906\u0930 \u0938\u0940 \u0926\u0947",
+         "\u0938\u0930",
+         "\u0938\u0930",
+         "",
+         "\u0924\u094b \u092f\u0938 \u092a\u0947 \u0928\u0939\u0940 \u091a\u0947\u0915 \u0915\u0930",
+         "\u092f\u0947 \u0915\u094d\u092f\u093e \u092e\u0947\u0902",
+         "\u092e\u093f\u0938\u094d\u091f\u0930 \u0939\u0948 \u0935\u093f\u091c\u093f\u091f \u0915\u0930 \u0915\u094b\u0908 \u0935\u0930\u094d\u092e\u093e \u0938\u094d\u091f\u094b\u0930 \u0938\u0947",
+         "",
+         "\u0928\u0939\u0940 \u092c\u0940 \u092b\u093f\u0930 \u0935\u093f\u091f\u093f\u0928 \u091c\u0940 \u0938\u0940 \u092a\u0947\u092e\u0947\u0902\u091f \u091f\u093e\u0907\u092e \u0935\u0940 \u0935\u0940 \u0926\u0947\u0916 \u0938\u0947",
+         "\u0938\u0930 \u092e\u0948 \u0938\u094d\u091f\u094b\u0930",
+         "\u0928\u0939\u0940 \u092e\u0947\u0930\u0947 \u0935\u0940 \u092e\u093f\u0928\u0940 \u0926\u0938 \u0938\u0947 \u092a\u094d\u0930\u094b\u0938\u0947\u0938 \u092a\u0947\u092e\u0947\u0902\u091f \u092c\u093e\u0930 \u0907\u0938\u0915\u0947 \u0939\u092e \u0939\u0947 \u0906\u092a\u0915\u0940 \u0917\u0941\u0921",
+         "\u092c\u093f\u0938 \u0915\u093e\u0930 \u0915\u093e",
+         "\u0938\u0930 \u092e\u0948 \u090f\u0915\u094d\u0938 \u091c\u094b \u0906\u0930 \u092f\u0942 \u0935\u0940 \u0935\u094b \u092f\u0942 \u0915\u0930 \u0915\u0930",
+         "",
+         "",
+         "",
+         "\u092f\u0938 \u0906\u092f\u093e \u0938\u0947 \u092d\u0940 \u091c\u094b \u092b\u093e\u0907\u0928 \u0917\u093e\u0921\u093c\u0940 \u0938\u0930 \u092b\u093f\u0930 \u0935\u094b \u092b\u0938\u093e \u0939\u0941\u0906 \u0939\u0940 \u092b\u093e\u0907\u0935 \u092f\u0942 \u0930\u0947\u091f \u092e\u0947\u0902 \u092a\u0947\u0938 \u0938\u0940 \u092f\u0942 \u0930\u093e\u0936\u093f \u0915\u0930 \u091c\u0940",
+         "\u091c\u0940 \u0939\u092e \u0915\u094d\u0932\u093e\u0938 \u0939\u0948",
+         "\u0920\u0940\u0915 \u0907\u0902\u0938\u094d\u092a\u0947\u0915\u094d\u0936\u0928",
+         "\u0938\u0930 \u0915\u093e",
+         "\u092e\u093f\u0928\u0940 \u092e\u093f\u0928\u091f \u092e\u0947\u0902 \u0913\u0915\u0947 \u0925\u0948\u0902\u0915\u094d\u092f\u0942 \u092b\u0949\u0930 \u0915\u0949\u0932 \u092f\u0939\u093e\u0901 \u092a\u0947 \u092e\u0948 \u0939\u0948 \u0906\u092a\u0915\u094b \u0935\u094b",
+         "\u0938\u0930"
+      ],
+      "transcripts_alerts":{
+         
+      }
+   }
+}

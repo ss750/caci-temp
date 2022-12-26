@@ -1,0 +1,399 @@
+{
+  "filename":"71df654158d04ecdb5d351d85daa5797.mp3",
+  "json": {
+    "duration": 43.538,
+    "speakers": [
+      "Customer",
+      "Agent",
+      "Customer",
+      "Agent",
+      "Customer",
+      "Agent",
+      "Customer",
+      "Agent",
+      "Agent",
+      "Customer",
+      "Agent",
+      "Customer",
+      "Agent",
+      "Customer",
+      "Agent",
+      "Customer"
+    ],
+    "sentiment": [
+      [
+        "Pleasant",
+        0.7535517673071143
+      ],
+      [
+        "Pleasant",
+        0.9402895719612412
+      ],
+      [
+        "Pleasant",
+        0.5346317290635282
+      ],
+      [
+        "Unpleasant",
+        0.9688627512228951
+      ],
+      [
+        "Pleasant",
+        0.5974368045147154
+      ],
+      [
+        "Pleasant",
+        0.9827452582572094
+      ],
+      [
+        "Unpleasant",
+        0.7292682465260585
+      ],
+      [
+        "Pleasant",
+        0.799501357967295
+      ],
+      [
+        "Pleasant",
+        0.9198640799838453
+      ],
+      [
+        "Pleasant",
+        0.8943357038118143
+      ],
+      [
+        "Pleasant",
+        0.7722224850503321
+      ],
+      [
+        "Pleasant",
+        0.8761653697747767
+      ],
+      [
+        "Pleasant",
+        0.8949214558186266
+      ],
+      [
+        "Pleasant",
+        0.5771298934549488
+      ],
+      [
+        "Pleasant",
+        0.9381177499840746
+      ],
+      [
+        "Pleasant",
+        0.9213328235470217
+      ]
+    ],
+    "timestamps": [
+      [
+        0,
+        0.4253125
+      ],
+      [
+        1.05046875,
+        5.034718750000001
+      ],
+      [
+        5.96953125,
+        6.8116562499999995
+      ],
+      [
+        7.11196875,
+        8.507593749999998
+      ],
+      [
+        8.10759375,
+        9.025656249999999
+      ],
+      [
+        8.62565625,
+        10.805968749999998
+      ],
+      [
+        11.91796875,
+        13.620718749999998
+      ],
+      [
+        13.82484375,
+        18.30690625
+      ],
+      [
+        19.55471875,
+        23.652062499999996
+      ],
+      [
+        23.252062499999997,
+        26.20271875
+      ],
+      [
+        26.055843749999998,
+        29.145718749999997
+      ],
+      [
+        30.57834375,
+        31.3774375
+      ],
+      [
+        30.9774375,
+        33.72559375
+      ],
+      [
+        34.577718749999995,
+        36.839031250000005
+      ],
+      [
+        37.14103125,
+        40.77765625000001
+      ],
+      [
+        40.87884375,
+        43.249843750000004
+      ]
+    ],
+    "call_metadata": [
+      {
+        "score": 7,
+        "labels": [
+          "Opening"
+        ],
+        "speaker": "Agent",
+        "max_score": 10,
+        "timestamp": [
+          1.05046875,
+          5.034718750000001
+        ],
+        "scaled_score": 70
+      },
+      {
+        "score": 0,
+        "labels": [
+          "Agreement"
+        ],
+        "speaker": "Customer",
+        "max_score": 0,
+        "timestamp": [
+          5.96953125,
+          6.8116562499999995
+        ],
+        "scaled_score": "-"
+      },
+      {
+        "score": 0,
+        "labels": [
+          "Displeasure"
+        ],
+        "speaker": "Customer",
+        "max_score": 0,
+        "timestamp": [
+          11.91796875,
+          13.620718749999998
+        ],
+        "scaled_score": "-"
+      },
+      {
+        "score": 0,
+        "labels": [
+          "Appointment"
+        ],
+        "speaker": "Customer",
+        "max_score": 0,
+        "timestamp": [
+          23.252062499999997,
+          26.20271875
+        ],
+        "scaled_score": "-"
+      },
+      {
+        "score": 2,
+        "labels": [
+          "Query", "Query"
+        ],
+        "speaker": "Agent",
+        "max_score": 10,
+        "timestamp": [
+          26.055843749999998,
+          29.145718749999997
+        ],
+        "scaled_score": 20
+      },
+      {
+        "score": 2.5,
+        "labels": ["Query", "Query"],
+        "speaker": "Agent",
+        "max_score": 5,
+        "timestamp": [
+          30.9774375,
+          33.72559375
+        ],
+        "scaled_score": 50
+      },
+      {
+        "score": 3,
+        "labels": [
+          "Elucidation"
+        ],
+        "speaker": "Agent",
+        "max_score": 5,
+        "timestamp": [
+          37.14103125,
+          40.77765625000001
+        ],
+        "scaled_score": 60
+      }
+    ],
+    "scoring_module": {
+      "Names": {
+        "remark": "Name of the Agent: NA, Name of the Customer: NA",
+        "success": [],
+        "max_score": 0,
+        "scores_sum": 0
+      },
+      "Evaluation": {
+        "success": [
+          "Fair"
+        ],
+        "Total Possible Score": 90,
+        "Total Score of Agent": 39
+      },
+      "Rate of Speech": {
+        "remark": "Rate of Speech of Agent: 188.47wpm",
+        "success": [
+          "Fair"
+        ],
+        "max_score": 4,
+        "scores_sum": 2
+      },
+      "Vehicle Details": {
+        "remark": "Vehicle model: NA, vehicle's year: NA",
+        "success": [
+          "Poor"
+        ],
+        "max_score": 10,
+        "scores_sum": 0
+      },
+      "Pleasant Welcome": {
+        "remark": "Proper Brand Name Intro: 3.0, Tone of the voice: 2.0",
+        "success": [
+          "Good"
+        ],
+        "max_score": 5,
+        "scores_sum": 5
+      },
+      "Creation of Urgency": {
+        "remark": "Creating a sense of urgency in appointments/booking: 5",
+        "success": [
+          "Good"
+        ],
+        "max_score": 5,
+        "scores_sum": 5
+      },
+      "Process Explanation": {
+        "remark": "Process explained in detail: 5.0",
+        "success": [
+          "Fair"
+        ],
+        "max_score": 10,
+        "scores_sum": 5
+      },
+      "Reflective Listening": {
+        "remark": "Percentage of the time the customer spoke: 27.12%, Reflectively listening to customer: 4.0",
+        "success": [
+          "Good"
+        ],
+        "max_score": 5,
+        "scores_sum": 4
+      },
+      "USP/ Brand Articulation": {
+        "remark": "Explained -  Instant Payment:0, No Service Charge: 0, Free RC Transfer: 0, Brand OLX being global: 0",
+        "success": [
+          "Poor"
+        ],
+        "max_score": 5,
+        "scores_sum": 0
+      },
+      "Provide Options/Services": {
+        "remark": "Provided service options by company: 0",
+        "success": [
+          "Poor"
+        ],
+        "max_score": 5,
+        "scores_sum": 0
+      },
+      "Connect with the customer": {
+        "remark": "Connection with the customer: 2",
+        "success": [
+          "Fair"
+        ],
+        "max_score": 5,
+        "scores_sum": 2
+      },
+      "Language & Choice of Words": {
+        "remark": "Formal language usage: 8.0",
+        "success": [
+          "Good"
+        ],
+        "max_score": 8,
+        "scores_sum": 8
+      },
+      "Name and Email ID Updation": {
+        "remark": "Verified Name and Email ID: 0",
+        "success": [
+          "Poor"
+        ],
+        "max_score": 10,
+        "scores_sum": 0
+      },
+      "Cheerful & Energetic Closing": {
+        "remark": "Energetic ending: 1.0, Brand name mentioned: 0, Tone of the voice: 2.0",
+        "success": [
+          "Fair"
+        ],
+        "max_score": 5,
+        "scores_sum": 3
+      },
+      "Hold / Dead Air/ Transfer Related": {
+        "remark": "No dead air: 3",
+        "success": [
+          "Good"
+        ],
+        "max_score": 3,
+        "scores_sum": 3
+      },
+      "Process Documentation Explanation": {
+        "remark": "Asked Documents - RC: 0, loan: 0, insurance: 0, aadhar: 0, cheque: 2",
+        "success": [
+          "Poor"
+        ],
+        "max_score": 10,
+        "scores_sum": 2
+      },
+      "Understand Customer's Apprehension": {
+        "remark": "Out of context",
+        "success": "-",
+        "max_score": "-",
+        "scores_sum": "-"
+      }
+    },
+    "hindi_transcripts": [
+      "हैलो",
+      "हैलो गुड इवनिंग मै ओ एल एक्स ऑटो से बात कर रही हूँ यशिका",
+      "हाँ जी",
+      "आपने अपने गाड़ी",
+      "गाड़ी को सेल कर",
+      "सेल करने के लिए एक बुकिंग किया हे ना",
+      "मैम ऑफिस का में आपका",
+      "सर हमारा दो सर हमारा जो आपकी से हो तो भी बंद हैं",
+      "सर सर जाना में अभी हमारा ऑफिस बंद हो चूका हे सर फाइव थर्टी हो सके में",
+      "सर आज का के तो आप आपको कल",
+      "है न होगा हमारा ईएसआई रोड कोचर मार्किट में हैं",
+      "कल आप में",
+      "आप मुझे लोकेशन हो गया भेजवा दीजिए मै कल पे",
+      "हैलो",
+      "ठीक है न प्रॉब्लम तो सर मै आपको एक बार कल कॉल कर लेती हूँ ठीक हे",
+      "ओके ओके"
+    ],
+    "transcripts_alerts": {}
+  }
+}
